@@ -1,0 +1,76 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.first-banner{
+ background-image: url("images/header-bg.png");
+ background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.half{
+    width: 40%;
+    height: 500px;
+    float: left;
+    margin-left:5px;
+    padding-left: 2px;
+    
+}
+.half img{
+    width: 100%;
+}
+.orange-highlight{
+    color: orange;
+    font-size: 30px;
+}
+.button{
+    background-color: red;
+    color: white;
+    font-weight: 700;
+    margin-left: 170px;
+    text-decoration: none;
+    box-shadow:4px 4px 10px black;
+
+}
+.button:hover{
+    background-color: blue;
+    font-size: 20px;
+}
+#biography{
+    margin-left: 150px;
+    font-size: 40px;
+    color: chartreuse;
+}
+#second-banner{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.work{
+    width:30%;
+    float:left;
+    margin-inline: 5px;
+}
+.work img{
+    width: 100%;
+    height: 100%;
+}
+#ami{
+    height:280px;
+}
+#section{
+    margin-left: 8px;
+}
+#lasth1{
+    font-size: 40px;
+    text-align: center;
+    color: cyan;
+    margin-bottom: 60px;
+}
+footer{
+    text-align: center;
+}
+button{
+    background-color: darkorchid;
+    color: white;
+}
